@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 156"
+  short_description: "Duotone Misregistered Illustration"
+  default_prompt: "Use $xxd-panel-156 to transform my photograph using the complete canonical source brief."
