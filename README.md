@@ -10,25 +10,17 @@
 
 ## 样张展示
 
-以下样张均来自不同的原始参考图，由 Panel 156 独立单轮生成，并已清理 AI 元数据。横版严格为左侧原图、右侧设计，各占 50%；竖版严格为上方原图、下方设计，各占 50%。
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-**16:9 横版 · 左右 50:50**
-
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 竖版 · 上下 50:50**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
-
-生成时要求使用贴合原图的简短英文文案。以下保留单次生成结果，供观察风格与模型偏差，不代表每张均完全通过风格验收。
-
-已观察到的偏差：部分主体偏大、场景删减不足；有些画面更接近大色块版画，面线分离与错版套印不够明显。sample-10 的设计区几乎只有单一橙色，不满足严格双色专色要求。未为这些差异追加生成。
 
 ## 适用场景与解决的问题
 
