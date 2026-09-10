@@ -10,25 +10,17 @@
 
 ## サンプル展示
 
-以下のサンプルはそれぞれ異なる原画像を使い、Panel 156 が一枚ずつ独立した一回の生成で作成しました。AIメタデータは削除済みです。横長は左に実写、右にデザインを置く厳密な50:50、縦長は上に実写、下にデザインを置く厳密な50:50です。
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-**16:9 横長 · 左右 50:50**
-
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 縦長 · 上下 50:50**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
-
-生成時には原画像に即した短い英語コピーを指定しました。以下は一度だけ生成した結果をそのまま示し、スタイルとモデルの逸脱を確認するためのものです。すべての検収条件を満たす完成例ではありません。
-
-確認された限界：一部は主体が大きく、背景の省略が不足しています。大きな色面の版画に寄り、面と線の分離や版ずれが弱い例もあります。sample-10 のデザイン部分はほぼ橙色の一色刷りで、厳密な二色特色の条件を満たしていません。修正のための追加生成は行っていません。
 
 ## 向いている場面と解決する課題
 

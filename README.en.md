@@ -10,25 +10,17 @@ Redirect an everyday photograph into a standalone art poster, preserving its rec
 
 ## Sample works
 
-The samples below use different original references. Panel 156 generated each one independently in a single pass, and AI metadata has been removed. Landscape samples are strict 50:50 left–right pairs with reality on the left and design on the right; portrait samples are strict 50:50 top–bottom pairs with reality above and design below.
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-**16:9 landscape · left–right 50:50**
-
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 portrait · top–bottom 50:50**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
-
-Generation requested brief, source-grounded English copy. These single-pass outputs show both the style and model deviations; they are not examples of complete compliance with every acceptance criterion.
-
-Observed limitations: some subjects are too large and retain too much scenery; some outputs lean toward block printing, with weak separation of line and fill or registration offsets. The design in sample-10 is almost entirely one orange ink, so it fails the strict two-spot-colour requirement. No extra generations were made to correct these deviations.
 
 ## Best-fit situations and problems solved
 
