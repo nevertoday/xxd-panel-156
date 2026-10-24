@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 156｜Duotone Misregistered Illustration: redraws the most recognisable subject of a photo as a strict two-spot-colour, Risograph-like hand-drawn editorial illustration — one ink for flat areas and shadow, the other for outlines and accents, with open contours, fills that do not quite meet the lines, slight misregistration, uneven ink, grain and paper fibre — kept small and stamp-like in very large whitespace with a few quiet words. Both colours are chosen from the photo. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-156 or asks for Risograph, duotone, screen-print or two-colour misregistered illustration from a photo.",
+  "short_description": "双色错版插画志：只用两种专色把照片主体画成带套印错位的 Risograph 风小插画",
+  "zh-CN": {
+    "name": "双色错版插画志",
+    "tagline": "只用两种油墨，把照片主角印成一张带点套印错位的 Risograph 风小插画。",
+    "look": "整张图严格只用两种专色：一种铺面和阴影，一种画轮廓和重点，两种颜色都从照片里挑。轮廓是开放的，色块不完全填满，线和面略微对不齐，带着浓淡不均、断墨、颗粒和纸张吃墨的痕迹，像真的用 Risograph 或丝网印出来。主体很小，像一枚章印，四周是大片留白。留白里只有少量安静的字。",
+    "traits": [
+      "双色专色",
+      "Risograph 质感",
+      "面线分离",
+      "套印错位",
+      "超级留白"
+    ],
+    "good": [
+      "主体明确、能用两种颜色说清的照片：一个人、一只鸟、一辆自行车、一个杯子",
+      "有姿态或动作的瞬间：跳跃、奔跑、回头、伸手",
+      "想做成独立杂志插画、zine 或小海报的照片"
+    ],
+    "poor": [
+      "颜色是重点的照片：彩虹、花市、多色服装，只能留下两种颜色",
+      "需要逐物交代的复杂场景，大部分内容会被删掉",
+      "想要干净精确的矢量插画或全彩写实效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Duotone Misregistered Illustration",
+    "tagline": "Prints the star of your photo in just two inks, as a small Risograph-style illustration slightly off register.",
+    "look": "The whole image uses exactly two spot colours, both chosen from the photo: one for flat areas and shadow, the other for outlines and accents. Contours stay open and fills do not quite meet the lines, with slight misregistration, uneven ink, broken strokes, grain and ink soaking into the paper, as if it came off a Risograph or screen press. The subject is small, like a stamp, in a large expanse of white space. Only a few quiet words sit in that space.",
+    "traits": [
+      "Two spot colours",
+      "Risograph feel",
+      "Line and fill apart",
+      "Misregistration",
+      "Vast whitespace"
+    ],
+    "good": [
+      "Photos with a clear subject that two colours can describe: a person, a bird, a bicycle, a cup",
+      "Moments with a pose or movement: a jump, a run, a glance back, an outstretched hand",
+      "Photos you want as an indie-magazine illustration, a zine page or a small poster"
+    ],
+    "poor": [
+      "Photos where colour is the point: rainbows, flower markets, multicoloured outfits, since only two colours remain",
+      "Complex scenes that need every object explained, as most of it is cut away",
+      "Requests for crisp precise vector art or full-colour realism"
+    ]
+  },
+  "ja": {
+    "name": "双色版ずれイラスト",
+    "tagline": "写真の主役を二色のインクだけで、少し版ずれしたリソグラフ風の小さなイラストにします。",
+    "look": "画面全体を二つの特色だけで描き、どちらの色も写真から選びます。一色は面と影、もう一色は輪郭と強調を受け持ちます。輪郭は開いていて色面は塗り切らず、線と面が少しずれ、インクのむら、かすれ、粒子、紙へのにじみが残り、リソグラフやシルクスクリーンで刷ったように見えます。主役はスタンプのように小さく、まわりは大きな余白です。余白には静かな言葉が少しだけ入ります。",
+    "traits": [
+      "二色の特色",
+      "リソグラフの質感",
+      "線と面の分離",
+      "版ずれ",
+      "大きな余白"
+    ],
+    "good": [
+      "主役がはっきりしていて二色で表せる写真：人物、鳥、自転車、カップ",
+      "ポーズや動きのある瞬間：ジャンプ、走る、振り返る、手を伸ばす",
+      "インディー雑誌の挿絵、ZINE、小さなポスターにしたい写真"
+    ],
+    "poor": [
+      "色そのものが見どころの写真：虹、花市場、色とりどりの服（二色しか残りません）",
+      "一つひとつの物を説明したい複雑な場面（大部分が削られます）",
+      "きっちり正確なベクターイラストやフルカラーの写実を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "두 별색 판맞춤 어긋남 삽화",
+    "tagline": "사진 속 주인공을 잉크 두 가지만으로, 판이 살짝 어긋난 리소그래프 풍 작은 삽화로 찍어 냅니다.",
+    "look": "화면 전체에 별색 두 가지만 쓰며, 두 색 모두 사진에서 고릅니다. 한 색은 면과 그림자, 다른 한 색은 윤곽과 강조를 맡습니다. 윤곽은 열려 있고 색면은 다 채우지 않으며, 선과 면이 조금 어긋나고 잉크 얼룩, 끊긴 획, 입자, 종이에 스민 흔적이 남아 리소그래프나 실크스크린으로 찍은 것처럼 보입니다. 주인공은 도장처럼 작고 주변은 아주 넓은 여백입니다. 여백에는 조용한 글이 조금만 들어갑니다.",
+    "traits": [
+      "두 가지 별색",
+      "리소그래프 질감",
+      "선과 면의 분리",
+      "판 어긋남",
+      "아주 넓은 여백"
+    ],
+    "good": [
+      "주인공이 분명하고 두 색으로 표현할 수 있는 사진: 사람, 새, 자전거, 컵",
+      "자세나 움직임이 있는 순간: 점프, 달리기, 뒤돌아보기, 손 뻗기",
+      "독립 잡지 삽화, 진(zine), 작은 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색 자체가 핵심인 사진: 무지개, 꽃시장, 알록달록한 옷(두 색만 남습니다)",
+      "물건 하나하나를 설명해야 하는 복잡한 장면(대부분 지워집니다)",
+      "깔끔하고 정확한 벡터 일러스트나 풀컬러 사실 표현을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسم بلونين وانزياح طباعي",
+    "tagline": "يطبع بطل صورتك بحبرين فقط، في رسم صغير بأسلوب الريزوغراف مع انزياح طباعي خفيف.",
+    "look": "تستخدم الصورة كلها لونين خاصّين فقط، يُختاران من الصورة: أحدهما للمساحات المسطّحة والظل، والآخر للحدود ومواضع التأكيد. تبقى الحدود مفتوحة ولا تملأ المساحات اللونية الخطوط تماماً، مع انزياح طباعي خفيف وحبر غير متساوٍ وخطوط متقطعة وحبيبات وتشرّب الحبر في الورق، كأنها خرجت من آلة ريزوغراف أو طباعة بالشاشة الحريرية. العنصر صغير كالختم وسط مساحة بيضاء واسعة جداً. ولا يظهر فيها إلا كلمات هادئة قليلة.",
+    "traits": [
+      "لونان خاصّان",
+      "ملمس الريزوغراف",
+      "فصل الخط عن المساحة",
+      "انزياح طباعي",
+      "فراغ واسع جداً"
+    ],
+    "good": [
+      "صور فيها عنصر واضح يكفيه لونان: شخص، طائر، دراجة، كوب",
+      "لحظات فيها وضعية أو حركة: قفزة، ركض، التفاتة، يد ممدودة",
+      "صور تريدها رسماً لمجلة مستقلة أو صفحة زين أو ملصقاً صغيراً"
+    ],
+    "poor": [
+      "صور يكون اللون فيها هو الأساس: أقواس قزح، أسواق الزهور، ملابس متعددة الألوان، إذ لا يبقى إلا لونان",
+      "مشاهد معقدة تحتاج إلى شرح كل شيء فيها، إذ يُحذف معظمها",
+      "طلب رسوم متجهية دقيقة ونظيفة أو واقعية بالألوان الكاملة"
+    ]
+  }
+}

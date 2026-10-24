@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 156"
-  short_description: "Duotone Misregistered Illustration"
-  default_prompt: "Use $xxd-panel-156 to transform my photograph using the complete canonical source brief."
+  short_description: "双色错版插画志：只用两种专色把照片主体画成带套印错位的 Risograph 风小插画"
+  default_prompt: "Use $xxd-panel-156 to turn my photo into Duotone Misregistered Illustration artwork."

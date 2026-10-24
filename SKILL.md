@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-156
-description: "Create XXD Panel 156 raster artwork from photographs using strict two-spot-colour Risograph-like editorial illustration, decoupled colour planes and open contours, slight ink misregistration, a small stamp-like subject and vast intentional whitespace. Use when the user invokes xxd-panel-156 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 156｜Duotone Misregistered Illustration: redraws the most recognisable subject of a photo as a strict two-spot-colour, Risograph-like hand-drawn editorial illustration — one ink for flat areas and shadow, the other for outlines and accents, with open contours, fills that do not quite meet the lines, slight misregistration, uneven ink, grain and paper fibre — kept small and stamp-like in very large whitespace with a few quiet words. Both colours are chosen from the photo. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-156 or asks for Risograph, duotone, screen-print or two-colour misregistered illustration from a photo."
 ---
 
 # XXD Panel 156
